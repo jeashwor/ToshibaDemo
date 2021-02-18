@@ -1,0 +1,22 @@
+{
+  "name": "toshibademo",
+  "version": "1.0.0",
+  "description": "ToshibaVirtualDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "toshibademo"
+  },
+  "keywords": [
+    "threejs",
+    "360pano"
+  ],
+  "author": "Jacob Ashworth",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.125.2"
+  }
+}
